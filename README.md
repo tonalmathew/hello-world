@@ -4,6 +4,6 @@
 
 - python 
  `# This program prints Hello, world!`
-  ```
+  ```python
   print('Hello, world!')
   ```
