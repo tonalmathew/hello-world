@@ -10,4 +10,4 @@
   ```
   output:
   
-  `Hello, world!`
+  > `Hello, world!`
