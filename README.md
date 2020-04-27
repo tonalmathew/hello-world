@@ -17,8 +17,9 @@
 
 ```c
 #include <stdio.h>
-int main() {
+void main() {
    printf("Hello, World!");
-   return 0;
 }
 ```
+output:
+> Hello, world!
