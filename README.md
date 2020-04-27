@@ -10,6 +10,8 @@
   ```
   output:
   > Hello, world!
+  
+  <hr>
 
 - c
 
