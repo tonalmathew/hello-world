@@ -3,6 +3,11 @@
 ### hello world programs
 #
 
+- [python](#python)
+- [c](#c)
+- [c++](#c++)
+- [Javascript](#Javascript)
+
 - python 
  
   ```python
