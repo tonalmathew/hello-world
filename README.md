@@ -5,7 +5,7 @@
 
 - [python](#python)
 - [c](#c)
-- [c++](#c++)
+- [c++](c++)
 - [Javascript](#Javascript)
 
 - python 
