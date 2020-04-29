@@ -3,12 +3,7 @@
 ### hello world programs
 #
 
-- [python](#python)
-- [c](#c)
-- [c++](c++)
-- [Javascript](#Javascript)
-
-- python 
+- ### python 
  
   ```python
   # This program prints Hello, world!
@@ -19,7 +14,7 @@
   
   #
 
-- c
+- ### c
 
 ```c
 #include <stdio.h>
@@ -49,7 +44,7 @@ output:
 
 #
 
-- Javascript
+- ### Javascript
 
 ```javascript
 console.log("Hello, world!");
