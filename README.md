@@ -19,7 +19,7 @@
 ```c
 #include <stdio.h>
 void main() {
-   printf("Hello, World!");
+   printf("Hello, world!");
 }
 ```
 output:
@@ -34,7 +34,7 @@ output:
 using namespace std;
 int main()
 {
-    cout<<"Hello, World!";
+    cout<<"Hello, world!";
 
     return 0;
 }
@@ -44,3 +44,12 @@ output:
 
 #
 
+- Javascript
+
+```javascript
+console.log("Hello, world!");
+```
+output:
+> Hello, world!
+
+#
