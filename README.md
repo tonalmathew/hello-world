@@ -53,3 +53,16 @@ output:
 > Hello, world!
 
 #
+
+- ### Java
+
+```java
+class helloWorld {
+public static void main() {
+System.out.println('Hello World')
+ }
+}
+```
+
+output:
+> Hello, world!
