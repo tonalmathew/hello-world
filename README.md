@@ -83,11 +83,11 @@ output:
  
 #
 
-- ### Node js
+- ### R
 
-```Node js
+```R
 
-console.log(Hello world!);
+print("Hello, world!")
  ```
  
 output:
