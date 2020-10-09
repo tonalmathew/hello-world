@@ -104,5 +104,36 @@ print("Hello, world!")
  
 output:
 > Hello, world!
+#
 
+- ### dart
+```dart
+
+void main() {
+  print('Hello, World!');
+}
+```
+output:
+>Hello, World!
+#
+- ### kotlin
+```kotlin
+fun main() {
+    println("Hello, World!")
+}
+```
+output:
+>Hello, World!
+#
+
+- ### golang
+```go
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello, world!")
+}
+```
+output:
+>Hello, World!
 #
