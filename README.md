@@ -117,9 +117,21 @@ output
 >Hello, World!
 #
 - ### kotlin
-```dart
+```kotlin
 fun main() {
     println("Hello, World!")
+}
+```
+output
+>Hello, World!
+#
+
+- ### golang
+```go
+package main
+import "fmt"
+func main() {
+    fmt.Println("hello, world!")
 }
 ```
 output
