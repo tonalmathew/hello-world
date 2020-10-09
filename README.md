@@ -116,3 +116,12 @@ void main() {
 output
 >Hello, World!
 #
+- ### kotlin
+```dart
+fun main() {
+    println("Hello, World!")
+}
+```
+
+>Hello, World!
+#
