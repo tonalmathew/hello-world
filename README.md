@@ -92,3 +92,17 @@ print("Hello, world!")
  
 output:
 > Hello, world!
+
+#
+
+- ### Lua
+
+```lua
+
+print("Hello, world!")
+ ```
+ 
+output:
+> Hello, world!
+
+#
