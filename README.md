@@ -113,7 +113,7 @@ void main() {
   print('Hello, World!');
 }
 ```
-output
+output:
 >Hello, World!
 #
 - ### kotlin
@@ -122,7 +122,7 @@ fun main() {
     println("Hello, World!")
 }
 ```
-output
+output:
 >Hello, World!
 #
 
@@ -134,6 +134,6 @@ func main() {
     fmt.Println("hello, world!")
 }
 ```
-output
+output:
 >Hello, World!
 #
