@@ -105,4 +105,12 @@ print("Hello, world!")
 output:
 > Hello, world!
 
+```dart
+
+void main() {
+  print('Hello, World!');
+}
+```
+output
+>Hello, World!
 #
