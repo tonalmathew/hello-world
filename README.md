@@ -1,8 +1,7 @@
 # hello-world-s
 
-### hello world programs
+### Different hello world programs
 #
-hello world programs
 
 - ### python 
  
