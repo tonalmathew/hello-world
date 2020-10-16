@@ -1,7 +1,10 @@
-### How to contribute
-<pre>
+### How to contribute?
+
+_Follow the below steps to contribute_
 
 1. Fork the [repo](github.com/tonalmathew/hello-world-s).
+
+<pre>
 
 - ### language_name
 
