@@ -5,10 +5,10 @@ _View [contributors.md](contributors.md) file before contributing._
 
 - ### python 
  
-  ```python
-  # This program prints Hello, world!
-  print('Hello, world!')
-  ```
+ ```python
+ # This program prints Hello, world!
+ print('Hello, world!')
+ ```
   
   
 
