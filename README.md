@@ -103,6 +103,7 @@ func main() {
 }
 ```
 
+
 - ### PHP
 ```php
 <?php
@@ -114,4 +115,21 @@ func main() {
 ```ruby
 # Hello World in Ruby
 puts "Hello World!"
+```
+
+- ### Matlab
+``` MatLab
+disp('Hello, world!')
+```
+
+- ### C#
+``` C#
+using System;
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, world!");
+    }
+}
 ```
