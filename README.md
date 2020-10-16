@@ -1,7 +1,7 @@
 # hello-world-s
 
 ### Different hello world programs
-#
+
 
 - ### python 
  
@@ -9,10 +9,8 @@
   # This program prints Hello, world!
   print('Hello, world!')
   ```
-  output:
-  > Hello, world!
   
-  #
+  
 
 - ### c
 
@@ -22,10 +20,7 @@ void main() {
    printf("Hello, world!");
 }
 ```
-output:
-> Hello, world!
 
-#
 
 - ### c++
 
@@ -39,20 +34,14 @@ int main()
     return 0;
 }
 ```
-output:
-> Hello, world!
 
-#
 
 - ### Javascript
 
 ```javascript
 console.log("Hello, world!");
 ```
-output:
-> Hello, world!
 
-#
 
 - ### Java
 
@@ -64,10 +53,6 @@ System.out.println('Hello World!')
 }
 ```
 
-output:
-> Hello, world!
-
-#
 
 - ### HTML
 
@@ -76,12 +61,6 @@ output:
 <h1>Hello World!<h1>
  ```
  
-output:
-> Hello, world!
- 
- 
- 
-#
 
 - ### R
 
@@ -90,10 +69,7 @@ output:
 print("Hello, world!")
  ```
  
-output:
-> Hello, world!
 
-#
 
 - ### Lua
 
@@ -102,9 +78,7 @@ output:
 print("Hello, world!")
  ```
  
-output:
-> Hello, world!
-#
+
 
 - ### dart
 ```dart
@@ -113,18 +87,14 @@ void main() {
   print('Hello, World!');
 }
 ```
-output:
->Hello, World!
-#
+
 - ### kotlin
 ```kotlin
 fun main() {
     println("Hello, World!")
 }
 ```
-output:
->Hello, World!
-#
+
 
 - ### golang
 ```go
@@ -134,6 +104,4 @@ func main() {
     fmt.Println("hello, world!")
 }
 ```
-output:
->Hello, World!
-#
+
