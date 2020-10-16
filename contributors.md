@@ -1,4 +1,4 @@
-### Format for adding new _`hello world program` _
+### Format for adding new _hello world program _
 <pre>
 - ### `language-name`
 
