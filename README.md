@@ -1,5 +1,3 @@
-# hello-world-s
-
 ### Different hello world programs
 
 
