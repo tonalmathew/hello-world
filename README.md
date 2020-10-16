@@ -133,3 +133,44 @@ class Program
     }
 }
 ```
+
+- ### Haskell
+``` Haskell
+main = putStrLn "Hello, world!"
+```
+
+- ### Scala
+``` Scala
+object Solution  
+{ 
+  def main(args: Array[String])  
+    { 
+      println("Hello World!")  
+    } 
+} 
+```
+
+- ### Rust
+``` Rust
+fn main() {
+    println!("Hello World");
+}
+```
+
+- ### Pascal
+``` Pascal
+Program HelloWorld(output);
+begin
+  writeln('Hello world!');
+end.
+```
+
+- ### Prolog
+``` Prolog
+main:-
+        process,
+        halt.
+process:-
+        write('Hello World').
+:- main.
+```
