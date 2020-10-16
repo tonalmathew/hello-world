@@ -103,3 +103,19 @@ func main() {
 }
 ```
 
+- ### Matlab
+``` MatLab
+disp('Hello, world!')
+```
+
+- ### C#
+``` C#
+using System;
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, world!");
+    }
+}
+```
