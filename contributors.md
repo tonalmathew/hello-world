@@ -7,7 +7,7 @@
 enter-your-code-here
 
 ```
-<pre>
+</pre>
 
 Replace the `language-name` with the name of the language that you wish to add.
 Replace the `enter-your-code-here` with the _hello world_ program of the language that you have selected.
