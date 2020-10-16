@@ -103,3 +103,15 @@ func main() {
 }
 ```
 
+- ### PHP
+```php
+<?php
+  echo 'Hello World!';
+?>
+```
+
+- ### Ruby
+```ruby
+# Hello World in Ruby
+puts "Hello World!"
+```
