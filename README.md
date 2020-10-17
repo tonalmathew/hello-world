@@ -191,3 +191,10 @@ print("Hello,World!")
 ``` Perl
 print "Hello World!";
 ```
+- ### Cobol
+``` Cobol
+program-id. hello.
+    procedure division.
+        display "Hello world!".
+        stop run.
+```
