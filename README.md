@@ -113,6 +113,17 @@ func main() {
 ?>
 ```
 
+- ### Bash
+
+```Bash
+
+echo "Hello World"
+
+```
+
+
+
+
 - ### Ruby
 ```ruby
 # Hello World in Ruby
