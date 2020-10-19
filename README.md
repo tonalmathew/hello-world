@@ -232,7 +232,7 @@ class Hello
 
 - ### PL/SQL
 
-```PL/SQL
+```SQL
 
 BEGIN
 dbms_output.put_line (‘Hello World..');
@@ -245,6 +245,6 @@ END;
 
 ```Basic
 
-PRINT "Hello, world!"​
+PRINT "Hello, world!"
 
 ```
