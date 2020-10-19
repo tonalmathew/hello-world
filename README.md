@@ -206,3 +206,15 @@ println(“Hello World”)
 ``` CoffeeScript
 console.log ‘Hello World!’
 ```
+- ### VB.net
+``` VB.net
+Live Demo
+
+Imports System
+Module Module1
+   Sub Main()
+      Console.WriteLine("Hello World")
+      Console.ReadKey()
+   End Sub
+End Module
+```
