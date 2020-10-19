@@ -3,14 +3,14 @@
 _View [contributors.md](contributors.md) file before contributing._
 
 
-- ### python 
- 
+- ### python
+
  ```python
- 
+
  print('Hello, world!')
  ```
-  
-  
+
+
 
 - ### c
 
@@ -60,7 +60,7 @@ System.out.println('Hello World!')
 
 <h1>Hello World!<h1>
  ```
- 
+
 
 - ### R
 
@@ -68,7 +68,7 @@ System.out.println('Hello World!')
 
 print("Hello, world!")
  ```
- 
+
 
 
 - ### Lua
@@ -77,7 +77,7 @@ print("Hello, world!")
 
 print("Hello, world!")
  ```
- 
+
 
 
 - ### dart
@@ -144,12 +144,12 @@ main = putStrLn "Hello, world!"
 - ### Scala
 ``` Scala
 object Solution  
-{ 
+{
   def main(args: Array[String])  
-    { 
+    {
       println("Hello World!")  
-    } 
-} 
+    }
+}
 ```
 
 - ### Rust
@@ -183,7 +183,7 @@ process:-
 ]<+.
 ```
 - ### Swift
-``` Swift 
+``` Swift
 import swift
 print("Hello,World!")
 ```
@@ -241,3 +241,10 @@ END;
 
 ```
 
+- ### Basic
+
+```Basic
+
+PRINT "Hello, world!"​
+
+```
