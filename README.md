@@ -206,6 +206,7 @@ println(“Hello World”)
 ``` CoffeeScript
 console.log ‘Hello World!’
 ```
+
 - ### VB.net
 ``` VB.net
 Live Demo
@@ -218,3 +219,25 @@ Module Module1
    End Sub
 End Module
 ```
+
+- ### Cobra
+
+```Cobra
+
+class Hello
+
+    def main
+        print 'Hello, world.'
+```
+
+- ### PL/SQL
+
+```PL/SQL
+
+BEGIN
+dbms_output.put_line (‘Hello World..');
+END;
+/
+
+```
+
