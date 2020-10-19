@@ -143,11 +143,11 @@ main = putStrLn "Hello, world!"
 
 - ### Scala
 ``` Scala
-object Solution  
+object Solution
 {
-  def main(args: Array[String])  
+  def main(args: Array[String])
     {
-      println("Hello World!")  
+      println("Hello World!")
     }
 }
 ```
@@ -246,5 +246,16 @@ END;
 ```Basic
 
 PRINT "Hello, world!"
+
+```
+- ### GO
+
+```GO
+
+import "fmt"
+
+func main() {
+
+    fmt.Println("!... Hello World ...!")
 
 ```
