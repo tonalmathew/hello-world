@@ -270,3 +270,14 @@ func main() {
     fmt.Println("!... Hello World ...!")
 
 ```
+
+- ### Dart
+
+```Dart
+
+void main()
+{
+  print("Hello world);
+}
+
+```
