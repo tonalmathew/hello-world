@@ -132,7 +132,7 @@ puts "Hello World!"
 
 - ### Matlab
 ``` MatLab
-disp('Hello, World!')
+disp('Hello World!')
 ```
 
 - ### C#
@@ -142,14 +142,14 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello World!");
     }
 }
 ```
 
 - ### Haskell
 ``` Haskell
-main = putStrLn "Hello, World!"
+main = putStrLn "Hello World!"
 ```
 
 - ### Scala
@@ -196,7 +196,7 @@ process:-
 - ### Swift
 ``` Swift
 import swift
-print("Hello,World!")
+print("Hello World!")
 ```
 - ### Perl
 ``` Perl
@@ -206,7 +206,7 @@ print "Hello World!";
 ``` Cobol
 program-id. hello.
     procedure division.
-        display "Hello world!".
+        display "Hello World!".
         stop run.
 ```
 - ### Julia
@@ -238,7 +238,7 @@ End Module
 class Hello
 
     def main
-        print 'Hello, world.'
+        print 'Hello World.'
 ```
 
 - ### PL/SQL
@@ -256,7 +256,7 @@ END;
 
 ```Basic
 
-PRINT "Hello, world!"
+PRINT "Hello World!"
 
 ```
 - ### GO
@@ -277,7 +277,7 @@ func main() {
 
 void main()
 {
-  print("-----Hello world-----");
+  print("-----Hello World-----");
 }
 
 ```
