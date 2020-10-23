@@ -7,7 +7,7 @@ _View [contributors.md](contributors.md) file before contributing._
 
  ```python
 
- print('Hello, World!')
+ print('Hello World!')
  ```
 
 
@@ -17,7 +17,7 @@ _View [contributors.md](contributors.md) file before contributing._
 ```c
 #include <stdio.h>
 void main() {
-   printf("Hello, World!");
+   printf("Hello World!");
 }
 ```
 
@@ -29,7 +29,7 @@ void main() {
 using namespace std;
 int main()
 {
-    cout<<"Hello, World!";
+    cout<<"Hello World!";
 
     return 0;
 }
@@ -39,7 +39,7 @@ int main()
 - ### Javascript
 
 ```javascript
-console.log("Hello, World!");
+console.log("Hello World!");
 ```
 
 
