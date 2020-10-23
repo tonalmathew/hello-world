@@ -7,7 +7,7 @@ _View [contributors.md](contributors.md) file before contributing._
 
  ```python
 
- print('Hello, world!')
+ print('Hello, World!')
  ```
 
 
@@ -17,7 +17,7 @@ _View [contributors.md](contributors.md) file before contributing._
 ```c
 #include <stdio.h>
 void main() {
-   printf("Hello, world!");
+   printf("Hello, World!");
 }
 ```
 
@@ -29,7 +29,7 @@ void main() {
 using namespace std;
 int main()
 {
-    cout<<"Hello, world!";
+    cout<<"Hello, World!";
 
     return 0;
 }
@@ -39,7 +39,7 @@ int main()
 - ### Javascript
 
 ```javascript
-console.log("Hello, world!");
+console.log("Hello, World!");
 ```
 
 
@@ -75,7 +75,7 @@ print("Hello, world!")
 
 ```lua
 
-print("Hello, world!")
+print("Hello, World!")
  ```
 
 
@@ -101,7 +101,7 @@ fun main() {
 package main
 import "fmt"
 func main() {
-    fmt.Println("hello, world!")
+    fmt.Println("Hello, World!")
 }
 ```
 
@@ -132,7 +132,7 @@ puts "Hello World!"
 
 - ### Matlab
 ``` MatLab
-disp('Hello, world!')
+disp('Hello, World!')
 ```
 
 - ### C#
@@ -142,14 +142,14 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, world!");
+        Console.WriteLine("Hello, World!");
     }
 }
 ```
 
 - ### Haskell
 ``` Haskell
-main = putStrLn "Hello, world!"
+main = putStrLn "Hello, World!"
 ```
 
 - ### Scala
@@ -174,7 +174,7 @@ fn main() {
 ``` Pascal
 Program HelloWorld(output);
 begin
-  writeln('Hello world!');
+  writeln('Hello World!');
 end.
 ```
 
