@@ -66,7 +66,7 @@ System.out.println('Hello World!')
 
 ```R
 
-print("Hello, world!")
+print("Hello World!")
  ```
 
 
@@ -75,7 +75,7 @@ print("Hello, world!")
 
 ```lua
 
-print("Hello, World!")
+print("Hello World!")
  ```
 
 
@@ -84,14 +84,14 @@ print("Hello, World!")
 ```dart
 
 void main() {
-  print('Hello, World!');
+  print('Hello World!');
 }
 ```
 
 - ### kotlin
 ```kotlin
 fun main() {
-    println("Hello, World!")
+    println("Hello World!")
 }
 ```
 
@@ -101,7 +101,7 @@ fun main() {
 package main
 import "fmt"
 func main() {
-    fmt.Println("Hello, World!")
+    fmt.Println("Hello World!")
 }
 ```
 
