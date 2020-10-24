@@ -281,3 +281,10 @@ void main()
 }
 
 ```
+
+- ### Rust
+``` Rust
+fn main() {
+    println!("---Hello World---");
+}
+```
