@@ -311,3 +311,13 @@ end.
 
 ```
 
+
+- ### jQuery
+
+```jQuery
+
+$("body").append("Hello world!");
+
+```
+
+
