@@ -6,11 +6,18 @@ _Follow the below steps to contribute_
 
 <pre>
 
-- ### language_name
+- ### C++
 
-```language_name
+```C++
 
-enter_your_code_here
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout<<"Hello World!";
+
+    return 0;
+}
 
 ```
 </pre>
