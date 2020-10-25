@@ -6,17 +6,14 @@ _Follow the below steps to contribute_
 
 <pre>
 
-- ### C++
+- ### Java
 
-```C++
+```Java
 
-#include <iostream>
-using namespace std;
-int main()
-{
-    cout<<"Hello World!";
-
-    return 0;
+class helloWorld {
+public static void main() {
+System.out.println('Hello World!')
+ }
 }
 
 ```
