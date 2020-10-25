@@ -321,3 +321,12 @@ $("body").append("Hello world!");
 ```
 
 
+- ### Logo
+
+```Logo
+
+print [Hello, world!]
+
+```
+
+
