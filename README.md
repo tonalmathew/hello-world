@@ -288,14 +288,26 @@ fn main() {
     println!("---Hello World---");
 }
 
-
-
 ```
+
+
 - ### Matlab
 
 ```Matlab
 
 disp('__Hello World!!__')
 
+```
 
+
+- ### Delphi
+
+```Delphi
+
+program HelloWorld;
+begin
+  Writeln('Hello, world!');
+end.
+
+```
 
