@@ -1,16 +1,15 @@
+<!-- @format -->
+
 ### Different hello world programs
 
 _View [contributors.md](contributors.md) file before contributing._
 
-
 - ### python
 
- ```python
+```python
 
- print('Hello World!')
- ```
-
-
+print('Hello World!')
+```
 
 - ### c
 
@@ -20,7 +19,6 @@ void main() {
    printf("Hello World!");
 }
 ```
-
 
 - ### c++
 
@@ -35,13 +33,11 @@ int main()
 }
 ```
 
-
 - ### Javascript
 
 ```javascript
 console.log("Hello World!");
 ```
-
 
 - ### Java
 
@@ -53,34 +49,29 @@ System.out.println('Hello World!')
 }
 ```
 
-
 - ### HTML
 
 ```HTML
 
 <h1>Hello World!<h1>
- ```
-
+```
 
 - ### R
 
 ```R
 
 print("Hello World!")
- ```
-
-
+```
 
 - ### Lua
 
 ```lua
 
 print("Hello World!")
- ```
-
-
+```
 
 - ### dart
+
 ```dart
 
 void main() {
@@ -89,14 +80,15 @@ void main() {
 ```
 
 - ### kotlin
+
 ```kotlin
 fun main() {
     println("Hello World!")
 }
 ```
 
-
 - ### golang
+
 ```go
 package main
 import "fmt"
@@ -105,8 +97,8 @@ func main() {
 }
 ```
 
-
 - ### PHP
+
 ```php
 <?php
   echo 'Hello World!';
@@ -121,22 +113,22 @@ echo "Hello World"
 
 ```
 
-
-
-
 - ### Ruby
+
 ```ruby
 # Hello World in Ruby
 puts "Hello World!"
 ```
 
 - ### Matlab
-``` MatLab
+
+```MatLab
 disp('Hello World!')
 ```
 
 - ### C#
-``` C#
+
+```C#
 using System;
 class Program
 {
@@ -148,12 +140,14 @@ class Program
 ```
 
 - ### Haskell
-``` Haskell
+
+```Haskell
 main = putStrLn "Hello World!"
 ```
 
 - ### Scala
-``` Scala
+
+```Scala
 object Solution
 {
   def main(args: Array[String])
@@ -164,14 +158,16 @@ object Solution
 ```
 
 - ### Rust
-``` Rust
+
+```Rust
 fn main() {
     println!("Hello World");
 }
 ```
 
 - ### Pascal
-``` Pascal
+
+```Pascal
 Program HelloWorld(output);
 begin
   writeln('Hello World!');
@@ -179,7 +175,8 @@ end.
 ```
 
 - ### Prolog
-``` Prolog
+
+```Prolog
 main:-
         process,
         halt.
@@ -187,39 +184,52 @@ process:-
         write('Hello World').
 :- main.
 ```
+
 - ### BrainFuck
-``` Brainfuck
+
+```Brainfuck
 >++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<+
 +.------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-
 ]<+.
 ```
+
 - ### Swift
-``` Swift
+
+```Swift
 import swift
 print("Hello World!")
 ```
+
 - ### Perl
-``` Perl
+
+```Perl
 print "Hello World!";
 ```
+
 - ### Cobol
-``` Cobol
+
+```Cobol
 program-id. hello.
     procedure division.
         display "Hello World!".
         stop run.
 ```
+
 - ### Julia
-``` Julia
+
+```Julia
 println(“Hello World”)
 ```
+
 - ### CoffeeScript
-``` CoffeeScript
+
+```CoffeeScript
 console.log ‘Hello World!’
 ```
 
 - ### VB.net
-``` VB.net
+
+```VB.net
 Live Demo
 
 Imports System
@@ -259,6 +269,7 @@ END;
 PRINT "Hello World!"
 
 ```
+
 - ### GO
 
 ```GO
@@ -283,13 +294,13 @@ void main()
 ```
 
 - ### Rust
-``` Rust
+
+```Rust
 fn main() {
     println!("---Hello World---");
 }
 
 ```
-
 
 - ### Matlab
 
@@ -298,7 +309,6 @@ fn main() {
 disp('__Hello World!!__')
 
 ```
-
 
 - ### Delphi
 
@@ -311,7 +321,6 @@ end.
 
 ```
 
-
 - ### jQuery
 
 ```jQuery
@@ -319,7 +328,6 @@ end.
 $("body").append("Hello world!");
 
 ```
-
 
 - ### Logo
 
@@ -329,14 +337,13 @@ print [Hello, world!]
 
 ```
 
-
 - ### C#
 
 ```c#
 
 namespace HelloWorld
 {
-    class Hello {         
+    class Hello {
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
@@ -346,4 +353,8 @@ namespace HelloWorld
 
 ```
 
+- ### Javascript
 
+```javascript
+document.write("Hello World!");
+```
