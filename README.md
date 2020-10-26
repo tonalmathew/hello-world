@@ -371,3 +371,10 @@ void main()
 }
 
 ```
+- ### Python
+
+```Python
+
+print("Hello World")
+
+```
