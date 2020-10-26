@@ -6,14 +6,13 @@ _Follow the below steps to contribute_
 
 <pre>
 
-- ### Java
+- ### golang
+```golang
 
-```Java
-
-class helloWorld {
-public static void main() {
-System.out.println('Hello World!')
- }
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello World!")
 }
 
 ```
