@@ -345,5 +345,41 @@ namespace HelloWorld
 }
 
 ```
+- ### c
+
+```### c
+#include <stdio.h>
+void main()
+{
+  printf("HELLO WORLD !!");
+}
+```
+- ### c++
+
+```c++
+
+#include<iostream>
+void main()
+{
+  cout<<"HELLO WORLD !!";
+  return 0;
+}
+```
+- ### Python
+
+```Python
+
+print "HELLO WORLD !!"
+
+```
+- ### Lua
+
+```Lua
+
+print("HELLO WORLD !!")
+
+```
+
+
 
 
