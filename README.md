@@ -345,7 +345,7 @@ namespace HelloWorld
 }
 
 ```
-- ### language_name
+- ### Actionscript
 
 ```Actionscript
 
