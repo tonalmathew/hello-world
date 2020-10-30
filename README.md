@@ -379,3 +379,16 @@ int main(int argc, const char * argv[]) {
 }
 
 ```
+```
+- ### Ada
+
+```Ada
+
+
+with Ada.Text_IO;
+
+procedure Hello is
+begin
+   Ada.Text_I
+
+```
