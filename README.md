@@ -363,4 +363,32 @@ public class Main extends Sprite {
 }
 
 ```
+- ### Objective-C
 
+```Objective-C
+
+
+#import <Foundation/Foundation.h>
+
+int main(int argc, const char * argv[]) {
+    @autoreleasepool {
+        // insert code here...
+        NSLog(@"Hello, World!");
+    }
+    return 0;
+}
+
+```
+```
+- ### Ada
+
+```Ada
+
+
+with Ada.Text_IO;
+
+procedure Hello is
+begin
+   Ada.Text_I
+
+```
