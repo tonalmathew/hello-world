@@ -379,16 +379,31 @@ int main(int argc, const char * argv[]) {
 }
 
 ```
-```
 - ### Ada
-
 ```Ada
-
 
 with Ada.Text_IO;
 
 procedure Hello is
 begin
-   Ada.Text_I
+   Ada.Text_IO.Put_Line("Hello, world!");
+end Hello;
+
+```
+- ### Assembly Language
+
+```Assembly Language
+
+  global  _main
+    extern  _printf
+
+    section .text
+_main:
+    push    message
+    call    _printf
+    add     esp, 4
+    ret
+message:
+    db  'Hello, World', 10, 0
 
 ```
