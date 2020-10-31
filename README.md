@@ -460,5 +460,15 @@ void hello() {
 }
 
 ```
+- ### B
 
+```B
+
+main()
+{
+  putstr("Hello world!*n");
+  return(0);
+}
+
+```
 
