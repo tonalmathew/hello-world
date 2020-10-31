@@ -417,3 +417,11 @@ STOP
 END
 
 ```
+- ### Smalltalk
+
+```Smalltalk
+
+Transcript show: 'Hello, world!'; cr.
+
+
+```
