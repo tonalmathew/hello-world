@@ -425,3 +425,20 @@ Transcript show: 'Hello, world!'; cr.
 
 
 ```
+- ### Eiffel 
+
+```Eiffel 
+
+class
+    HELLO_WORLD
+create
+    make
+feature
+    make
+        do
+            print ("Hello, world!%N")
+        end
+end
+
+```
+
