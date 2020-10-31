@@ -441,4 +441,14 @@ feature
 end
 
 ```
+- ### Visual Basic 
+
+```Visual Basic 
+
+Public Sub Main()
+    Debug.Print "Hello, World!"
+End Sub
+
+```
+
 
