@@ -407,3 +407,13 @@ message:
     db  'Hello, World', 10, 0
 
 ```
+- ### Fortran
+
+```Fortran
+
+PROGRAM Hello
+WRITE (*,*) 'Hello, World!'
+STOP
+END
+
+```
