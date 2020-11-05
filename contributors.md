@@ -21,3 +21,9 @@ enter_your_code_here
 And also replace the `enter_your_code_here` with the _hello world_ program of the language that you have selected.
 
 4. Commit your changes and create pull request
+
+## Contributors
+
+<a href="https://github.com/tonalmathew/hello-world-s/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=tonalmathew/hello-world-s" />
+</a>
