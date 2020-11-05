@@ -24,7 +24,7 @@ And also replace the `enter_your_code_here` with the _hello world_ program of th
 
 ## Contributors
 
-<a href="https://github.com/tonalmathew/hello-world-s/graphs/contributors">
+<!-- <a href="https://github.com/tonalmathew/hello-world-s/graphs/contributors"> -->
   <img src="https://contributors-img.web.app/image?repo=tonalmathew/hello-world-s" />
-</a>
-Made with [contributors-img](https://contributors-img.web.app).
+<!-- </a> -->
+<!-- Made with [contributors-img](https://contributors-img.web.app). -->
