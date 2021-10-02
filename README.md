@@ -505,7 +505,7 @@ End Module
 
 - ### Visual Basic 
 
-```Visual Basic 
+```visual-basic 
 
 Public Sub Main()
     Debug.Print "Hello World!"
