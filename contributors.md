@@ -4,16 +4,16 @@ _Follow the below steps to contribute_
 
 1. Fork the [repo](https://github.com/tonalmathew/hello-world-s).
 
-<pre>
+  <pre>
 
-- ### language_name
+  - ### language_name
 
-```language_name
+  ```language_name
 
-enter_your_code_here
+  enter_your_code_here
 
-```
-</pre>
+  ```
+  </pre>
 
 2. Copy the above format and paste it to the bottom of the `Readme.md` file.
 
