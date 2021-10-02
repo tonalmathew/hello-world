@@ -39,7 +39,7 @@ end Hello;
 
 - ### Assembly Language
 
-```Assembly Language
+```assembly-language
 
   global  _main
     extern  _printf
