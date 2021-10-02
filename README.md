@@ -14,7 +14,7 @@ public class Main extends Sprite {
     public function Main() {
         super();
 
-        trace("Hello, World");
+        trace("Hello World!");
     }
 
 }
@@ -29,7 +29,7 @@ with Ada.Text_IO;
 
 procedure Hello is
 begin
-   Ada.Text_IO.Put_Line("Hello, world!");
+   Ada.Text_IO.Put_Line("Hello World!");
 end Hello;
 
 ```
@@ -50,7 +50,7 @@ _main:
     add     esp, 4
     ret
 message:
-    db  'Hello, World', 10, 0
+    db  'Hello World!', 10, 0
 
 ```
 
@@ -62,7 +62,7 @@ message:
 
 main()
 {
-  putstr("Hello world!*n");
+  putstr("Hello World!*n");
   return(0);
 }
 
@@ -74,7 +74,7 @@ main()
 
 ```Bash
 
-echo "Hello World"
+echo "Hello World!"
 
 ```
 
@@ -156,7 +156,7 @@ program-id. hello.
 class Hello
 
     def main
-        print 'Hello World.'
+        print 'Hello World!'
 ```
 
 -------------------------------------------------------------------------
@@ -174,7 +174,7 @@ console.log ‘Hello World!’
 
 
 void hello() {
-    print("Hello, World!");
+    print("Hello World!");
 }
 
 ```
@@ -197,7 +197,7 @@ void main() {
 
 program HelloWorld;
 begin
-  Writeln('Hello, world!');
+  Writeln('Hello World!');
 end.
 
 ```
@@ -215,7 +215,7 @@ create
 feature
     make
         do
-            print ("Hello, world!%N")
+            print ("Hello world!%N")
         end
 end
 
@@ -228,7 +228,7 @@ end
 ```Fortran
 
 PROGRAM Hello
-WRITE (*,*) 'Hello, World!'
+WRITE (*,*) 'Hello World!'
 STOP
 END
 
@@ -287,7 +287,7 @@ System.out.println('Hello World!')
 
 - ### Julia
 ``` Julia
-println(“Hello World”)
+println(“Hello World!”)
 ```
 
 ----------------------------------------------------------------------------
@@ -296,7 +296,7 @@ println(“Hello World”)
 
 ```jQuery
 
-$("body").append("Hello world!");
+$("body").append("Hello World!");
 
 ```
 
@@ -315,7 +315,7 @@ fun main() {
 
 ```Logo
 
-print [Hello, world!]
+print [Hello World!]
 
 ```
 
@@ -339,7 +339,7 @@ disp('Hello World!')
 
 - ### NodeJs
 ```node.js
-console.log('Hello World');
+console.log('Hello World!');
 ```
 
 -----------------------------------------------------------------------------
@@ -354,7 +354,7 @@ console.log('Hello World');
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        NSLog(@"Hello, World!");
+        NSLog(@"Hello World!");
     }
     return 0;
 }
@@ -394,7 +394,7 @@ print "Hello World!";
 ```SQL
 
 BEGIN
-dbms_output.put_line (‘Hello World..');
+dbms_output.put_line (‘Hello World!');
 END;
 /
 
@@ -408,7 +408,7 @@ main:-
         process,
         halt.
 process:-
-        write('Hello World').
+        write('Hello World!').
 :- main.
 ```
 
@@ -444,7 +444,7 @@ puts "Hello World!"
 - ### Rust
 ``` Rust
 fn main() {
-    println!("Hello World");
+    println!("Hello World!");
 }
 ```
 
@@ -488,7 +488,7 @@ Live Demo
 Imports System
 Module Module1
    Sub Main()
-      Console.WriteLine("Hello World")
+      Console.WriteLine("Hello World!")
       Console.ReadKey()
    End Sub
 End Module
@@ -501,7 +501,7 @@ End Module
 ```Visual Basic 
 
 Public Sub Main()
-    Debug.Print "Hello, World!"
+    Debug.Print "Hello World!"
 End Sub
 
 ```
