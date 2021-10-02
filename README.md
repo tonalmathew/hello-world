@@ -1,4 +1,4 @@
-### Different hello world programs
+### Hello World in different languages
 
 _View [contributors.md](contributors.md) file before contributing._
 
