@@ -471,4 +471,8 @@ main()
 }
 
 ```
+- ### NodeJs
+```nodejs
+console.log('Hello World');
+```
 
