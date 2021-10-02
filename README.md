@@ -183,6 +183,7 @@ void hello() {
 --------------------------------------------------------------------------
 
 - ### dart
+
 ```dart
 
 void main() {
@@ -257,7 +258,7 @@ main = putStrLn "Hello World!"
 
 - ### HTML
 
-```HTML
+```html
 
 <h1>Hello World!<h1>
  ```
@@ -295,7 +296,7 @@ println(“Hello World!”)
 
 - ### jQuery
 
-```jQuery
+```jquery
 
 $("body").append("Hello World!");
 
@@ -354,7 +355,6 @@ console.log('Hello World!');
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
-        // insert code here...
         NSLog(@"Hello World!");
     }
     return 0;
@@ -365,6 +365,7 @@ int main(int argc, const char * argv[]) {
 -----------------------------------------------------------------------------
 
 - ### Pascal
+
 ``` Pascal
 Program HelloWorld(output);
 begin
@@ -375,6 +376,7 @@ end.
 ----------------------------------------------------------------------------
 
 - ### Perl
+
 ``` Perl
 print "Hello World!";
 ```
@@ -382,6 +384,7 @@ print "Hello World!";
 ----------------------------------------------------------------------------
  
  - ### PHP
+
 ```php
 <?php
   echo 'Hello World!';
@@ -397,13 +400,13 @@ print "Hello World!";
 BEGIN
 dbms_output.put_line (‘Hello World!');
 END;
-/
 
 ```
 
 -----------------------------------------------------------------------------
 
 - ### Prolog
+
 ``` Prolog
 main:-
         process,
@@ -435,8 +438,8 @@ print("Hello World!")
  -----------------------------------------------------------------------------
 
 - ### Ruby
+
 ```ruby
-# Hello World in Ruby
 puts "Hello World!"
 ```
 
@@ -452,6 +455,7 @@ fn main() {
 ------------------------------------------------------------------------------
 
 - ### Scala
+
 ``` Scala
 object Solution
 {
@@ -475,6 +479,7 @@ Transcript show: 'Hello, world!'; cr.
 -------------------------------------------------------------------------------
 
 - ### Swift
+
 ``` Swift
 import swift
 print("Hello World!")
@@ -483,7 +488,8 @@ print("Hello World!")
 -------------------------------------------------------------------------------
 
 - ### VB.net
-``` VB.net
+
+```.net
 Live Demo
 
 Imports System
