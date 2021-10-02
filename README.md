@@ -472,7 +472,7 @@ main()
 
 ```
 - ### NodeJs
-```nodejs
+```node.js
 console.log('Hello World');
 ```
 
