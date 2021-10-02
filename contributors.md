@@ -1,4 +1,4 @@
-### How to contribute?
+## Here the steps are!
 
 _Follow the below steps to contribute_
 
