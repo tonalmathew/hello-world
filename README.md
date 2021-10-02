@@ -4,7 +4,7 @@ _View [contributors.md](contributors.md) file before contributing._
 
 - ### Actionscript
 
-```Actionscript
+```actionscript
 
 
 import flash.display.Sprite;
@@ -39,7 +39,7 @@ end Hello;
 
 - ### Assembly Language
 
-```assembly-language
+```assemblylanguage
 
   global  _main
     extern  _printf
@@ -59,7 +59,7 @@ message:
 
 - ### B
 
-```B
+```b
 
 main()
 {
@@ -93,7 +93,7 @@ PRINT "Hello World!"
 
 - ### BrainFuck
 
-``` Brainfuck
+``` brainfuck
 >++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<+
 +.------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-
 ]<+.
@@ -144,7 +144,7 @@ class Program
 
 - ### Cobol
 
-``` Cobol
+``` cobol
 program-id. hello.
     procedure division.
         display "Hello World!".
@@ -155,7 +155,7 @@ program-id. hello.
 
 - ### Cobra
 
-```Cobra
+```cobra
 
 class Hello
 
@@ -167,7 +167,7 @@ class Hello
 
 - ### CoffeeScript
 
-``` CoffeeScript
+``` coffeescript
 console.log ‘Hello World!’
 ```
 
@@ -175,7 +175,7 @@ console.log ‘Hello World!’
 
 - ### Ceylon
 
-```Ceylon
+```ceylon
 
 
 void hello() {
@@ -199,7 +199,7 @@ void main() {
 
 - ### Delphi
 
-```Delphi
+```delphi
 
 program HelloWorld;
 begin
@@ -212,7 +212,7 @@ end.
 
 - ### Eiffel 
 
-```Eiffel 
+```eiffel
 
 class
     HELLO_WORLD
@@ -231,7 +231,7 @@ end
 
 - ### Fortran
 
-```Fortran
+```fortran
 
 PROGRAM Hello
 WRITE (*,*) 'Hello World!'
@@ -256,7 +256,7 @@ func main() {
 
 - ### Haskell
 
-``` Haskell
+``` haskell
 main = putStrLn "Hello World!"
 ```
 
@@ -274,7 +274,7 @@ main = putStrLn "Hello World!"
 
 - ### Javascript
 
-```javascript
+```js
 console.log("Hello World!");
 ```
 
@@ -303,7 +303,7 @@ println(“Hello World!”)
 
 - ### jQuery
 
-```jquery
+```js
 
 $("body").append("Hello World!");
 
@@ -323,7 +323,7 @@ fun main() {
 
 - ### Logo
 
-```Logo
+```logo
 
 print [Hello World!]
 
@@ -342,7 +342,7 @@ print("Hello World!")
  
  - ### Matlab
 
-``` MatLab
+``` matlab
 disp('Hello World!')
 ```
 
@@ -350,7 +350,7 @@ disp('Hello World!')
 
 - ### NodeJs
 
-```node.js
+```js
 console.log('Hello World!');
 ```
 
@@ -358,7 +358,7 @@ console.log('Hello World!');
 
 - ### Objective-C
 
-```Objective-C
+```objectivec
 
 #import <Foundation/Foundation.h>
 
@@ -375,7 +375,7 @@ int main(int argc, const char * argv[]) {
 
 - ### Pascal
 
-``` Pascal
+``` pascal
 Program HelloWorld(output);
 begin
   writeln('Hello World!');
@@ -416,7 +416,7 @@ END;
 
 - ### Prolog
 
-``` Prolog
+``` prolog
 main:-
         process,
         halt.
@@ -466,7 +466,7 @@ fn main() {
 
 - ### Scala
 
-``` Scala
+``` scala
 object Solution
 {
   def main(args: Array[String])
@@ -480,7 +480,7 @@ object Solution
 
 - ### Smalltalk
 
-```Smalltalk
+```smallTalk
 
 Transcript show: 'Hello, world!'; cr.
 
@@ -499,7 +499,7 @@ print("Hello World!")
 
 - ### VB.net
 
-```.net
+```vb
 Live Demo
 
 Imports System
@@ -515,7 +515,7 @@ End Module
 
 - ### Visual Basic 
 
-```visual-basic 
+```vb
 
 Public Sub Main()
     Debug.Print "Hello World!"
@@ -527,9 +527,9 @@ End Sub
 
 - ### TypeScript 
 
-```TypeScript 
+```ts 
 
-console.log("Hello World")
+console.log("Hello World!")
 
 ```
 
@@ -537,7 +537,7 @@ console.log("Hello World")
 
 - ### Django
 
-``` Django
+```py
 
 import django.http from HttpResponse
 
