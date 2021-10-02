@@ -23,7 +23,8 @@ public class Main extends Sprite {
 ------------------------------------------------------------------------
 
 - ### Ada
-```Ada
+
+```ada
 
 with Ada.Text_IO;
 
