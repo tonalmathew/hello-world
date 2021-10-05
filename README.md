@@ -566,3 +566,10 @@ printfn "Hello World"
 ```
 
 ------------------------------------------------------------------------------
+  - ### CLOJURESCRIPT
+
+  ```CLOJURE
+
+  (println "Hello world!")
+
+  ```
