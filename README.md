@@ -566,3 +566,14 @@ printfn "Hello World"
 ```
 
 ------------------------------------------------------------------------------
+- ### System Verilog
+
+```System Verilog
+
+module HelloWorld;
+    initial begin
+        $display("Hello World!");
+    end
+endmodule
+
+```
