@@ -278,7 +278,7 @@ END
 
 - ### F# 
 
-```f sharp
+```fsharp
 
 printfn "Hello World"
 
