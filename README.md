@@ -9,6 +9,7 @@ _View [contributors.md](contributors.md) file before contributing._
 WRITE 'Hello, world!'.
 
 ```
+------------------------------------------------------------------------
 
 - ### Abc
 
@@ -17,7 +18,7 @@ WRITE 'Hello, world!'.
 WRITE 'Hello, world!'
 
 ```
-
+------------------------------------------------------------------------
 
 - ### Actionscript
 
