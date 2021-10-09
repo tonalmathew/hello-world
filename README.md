@@ -2,6 +2,14 @@
 
 _View [contributors.md](contributors.md) file before contributing._
 
+- ### Abap
+
+```Abap
+
+WRITE 'Hello, world!'.
+
+```
+
 - ### Actionscript
 
 ```actionscript
