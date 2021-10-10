@@ -1,0 +1,26 @@
+#Python code for finding armstrong number
+
+n = int(input())
+s = 0
+temp = n
+num = n
+count = 0
+
+def count(num):
+    countn = 0
+    while (num !=0):
+        digit = num%10
+        countn = countn +1
+        num = num//10
+    return countn
+c = count(num)
+
+while(temp>0):
+    digit = temp%10
+    s += digit**c
+    temp = temp//10
+    
+if(s==n):
+    print("armstrong")
+else:
+    print("not armstrong")
