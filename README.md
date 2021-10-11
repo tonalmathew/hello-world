@@ -7,7 +7,6 @@ _View [contributors.md](contributors.md) file before contributing._
 ```Abap
 
 WRITE 'Hello, world!'.
-
 ```
 ------------------------------------------------------------------------
 
@@ -16,7 +15,6 @@ WRITE 'Hello, world!'.
 ```Abc
 
 WRITE 'Hello, world!'
-
 ```
 ------------------------------------------------------------------------
 
@@ -59,7 +57,7 @@ end Hello;
 
 ```algol
 
-BEGIN DISPLAY("Hello World") END.
+BEGIN DISPLAY("Hello World!") END.
 
 ```
 
@@ -174,7 +172,7 @@ class Program
 
 ```clipper
 
-? "Hello World"
+? "Hello World!"
 
 ```
 
@@ -308,7 +306,7 @@ END
 
 ```fsharp
 
-printfn "Hello World"
+printfn "Hello World!"
 
 ```
 ------------------------------------------------------------------------------
