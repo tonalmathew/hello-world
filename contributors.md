@@ -2,7 +2,7 @@
 
 _Follow the below steps to contribute_
 
-- Fork the [repo](https://github.com/tonalmathew/hello-world-s).
+- Fork this [repo](https://github.com/tonalmathew/hello-world-s).
 
   <pre>
 
