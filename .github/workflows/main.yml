@@ -7,5 +7,7 @@ jobs:
         steps:
             - name: Contribute List
               uses: akhilmhdh/contributors-readme-action@v2.3
+              with:
+                  readme_path: "contributors.md"
               env:
                   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
