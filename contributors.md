@@ -24,4 +24,6 @@ And also replace the `enter_your_code_here` with the _hello world_ program of th
 
 ## Contributors
 
-  <img src="https://contributors-img.web.app/image?repo=tonalmathew/hello-worlds" />
+<!--   <img src="https://contributors-img.web.app/image?repo=tonalmathew/hello-worlds" /> -->
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
