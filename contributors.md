@@ -60,7 +60,7 @@ And also replace the `enter_your_code_here` with the _hello world_ program of th
         <a href="https://github.com/tania-math280">
             <img src="https://avatars.githubusercontent.com/u/72187768?v=4" width="100;" alt="tania-math280"/>
             <br />
-            <sub><b>tania-math280</b></sub>
+            <sub><b>Tania-math280</b></sub>
         </a>
     </td>
     <td align="center">
@@ -103,7 +103,7 @@ And also replace the `enter_your_code_here` with the _hello world_ program of th
         <a href="https://github.com/shamilthomas8">
             <img src="https://avatars.githubusercontent.com/u/42699732?v=4" width="100;" alt="shamilthomas8"/>
             <br />
-            <sub><b>shamilthomas8</b></sub>
+            <sub><b>Shamilthomas8</b></sub>
         </a>
     </td>
     <td align="center">
@@ -161,7 +161,7 @@ And also replace the `enter_your_code_here` with the _hello world_ program of th
         <a href="https://github.com/thomasjerryarackal">
             <img src="https://avatars.githubusercontent.com/u/42430083?v=4" width="100;" alt="thomasjerryarackal"/>
             <br />
-            <sub><b>thomasjerryarackal</b></sub>
+            <sub><b>Thomasjerryarackal</b></sub>
         </a>
     </td>
     <td align="center">
@@ -225,21 +225,21 @@ And also replace the `enter_your_code_here` with the _hello world_ program of th
         <a href="https://github.com/ielin">
             <img src="https://avatars.githubusercontent.com/u/72682863?v=4" width="100;" alt="ielin"/>
             <br />
-            <sub><b>ielin</b></sub>
+            <sub><b>Ielin</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/namita2310">
             <img src="https://avatars.githubusercontent.com/u/51440706?v=4" width="100;" alt="namita2310"/>
             <br />
-            <sub><b>namita2310</b></sub>
+            <sub><b>Namita2310</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/sachinbir">
             <img src="https://avatars.githubusercontent.com/u/31894261?v=4" width="100;" alt="sachinbir"/>
             <br />
-            <sub><b>sachinbir</b></sub>
+            <sub><b>Sachinbir</b></sub>
         </a>
     </td></tr>
 </table>
