@@ -22,6 +22,8 @@ And also replace the `enter_your_code_here` with the _hello world_ program of th
 
 - Commit your changes and create pull request
 
+---
+
 ## Contributors
 
 <!--   <img src="https://contributors-img.web.app/image?repo=tonalmathew/hello-worlds" /> -->
