@@ -1,4 +1,4 @@
-### "Hello, World" in different languages :sparkles:
+### "Hello, World" in different languages ✨
 
 _View [contributors.md](contributors.md) file before contributing._
 
