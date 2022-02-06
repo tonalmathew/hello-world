@@ -1,4 +1,4 @@
-### "Hello, World" in different languages
+### "Hello, World" in different languages :sparkles:
 
 _View [contributors.md](contributors.md) file before contributing._
 
