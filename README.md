@@ -143,11 +143,10 @@ void main() {
 ```c++
 #include <iostream>
 using namespace std;
-int main()
+void main()
 {
     cout<<"Hello, World!";
 
-    return 0;
 }
 ```
 
