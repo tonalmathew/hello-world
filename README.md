@@ -233,7 +233,7 @@ void hello() {
 
 - ### dart
 
-```dart
+```dar
 
 void main() {
   print('Hello, World!');
