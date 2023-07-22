@@ -21,10 +21,10 @@ _Follow the below steps to contribute_
   
   </pre>
 
-- Copy the above format and paste it to your new `.md` file that you have create in `src/pages/lang`.
+- Copy the above format and paste it to your new `.md` file that you have created in `src/pages/lang` folder.
 
 - replace the `language_name` with the name of the language that you wish to add,
-And also replace the `enter_your_code_here` with the _hello world_ program of the language that you have selected.
+And also replace the `enter_your_code_here` with the _hello world_ program of the language that you are adding.
 
 - Commit your changes and create pull request
 
