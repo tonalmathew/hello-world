@@ -9,9 +9,9 @@ _Follow the below steps to contribute_
 
   <pre>
     
-    ---
-    title: "language_name"
-    ---
+  ---
+  title: "language_name"
+  ---
 
   ```
 
