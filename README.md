@@ -1,54 +1,670 @@
-# Astro Starter Kit: Basics
+### "Hello, World" in different languages ✨
+
+_View [contributors.md](contributors.md) file before contributing._
+
+- ### Abap
+
+```Abap
+
+WRITE 'Hello, world!'.
+```
+------------------------------------------------------------------------
+
+- ### Abc
+
+```Abc
+
+WRITE 'Hello, world!'
+```
+------------------------------------------------------------------------
+
+- ### Actionscript
+
+```actionscript
+
+
+import flash.display.Sprite;
+
+public class Main extends Sprite {
+
+    public function Main() {
+        super();
+
+        trace("Hello, World!");
+    }
+
+}
 
 ```
-npm create astro@latest -- --template basics
-```
+------------------------------------------------------------------------
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+- ### Ada
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+```ada
 
-![basics](https://user-images.githubusercontent.com/4677417/186188965-73453154-fdec-4d6b-9c34-cb35c248ae5b.png)
+with Ada.Text_IO;
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
+procedure Hello is
+begin
+   Ada.Text_IO.Put_Line("Hello, World!");
+end Hello;
 
 ```
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
+
+-------------------------------------------------------------------------
+
+- ### Algol
+
+```algol
+
+BEGIN DISPLAY("Hello, World!") END.
+
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+-------------------------------------------------------------------------
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- ### Assembly Language
 
-Any static assets, like images, can be placed in the `public/` directory.
+```assemblylanguage
 
-## 🧞 Commands
+  global  _main
+    extern  _printf
 
-All commands are run from the root of the project, from a terminal:
+    section .text
+_main:
+    push    message
+    call    _printf
+    add     esp, 4
+    ret
+message:
+    db  'Hello, World!', 10, 0
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+```
 
-## 👀 Want to learn more?
+------------------------------------------------------------------------
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- ### B
+
+```b
+
+main()
+{
+  putstr("Hello, World!*n");
+  return(0);
+}
+
+```
+
+-------------------------------------------------------------------------
+
+- ### Bash
+
+```Bash
+
+echo "Hello, World!"
+
+```
+
+--------------------------------------------------------------------------
+
+- ### Basic
+
+```Basic
+
+PRINT "Hello, World!"
+
+```
+
+--------------------------------------------------------------------------
+
+- ### BrainFuck
+
+``` brainfuck
+>++++++++[<+++++++++>-]<.>++++[<+++++++>-]<+.+++++++..+++.>>++++++[<+++++++>-]<+
++.------------.>++++++[<+++++++++>-]<+.<.+++.------.--------.>>>++++[<++++++++>-
+]<+.
+```
+
+----------------------------------------------------------------------------
+
+- ### c
+
+```c
+#include <stdio.h>
+void main() {
+   printf("Hello, World!");
+}
+```
+
+-------------------------------------------------------------------------
+
+- ### c++
+
+```c++
+#include <iostream>
+using namespace std;
+void main()
+{
+    cout<<"Hello, World!";
+
+}
+```
+
+--------------------------------------------------------------------------
+
+- ### C#
+
+``` C#
+using System;
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
+```
+
+--------------------------------------------------------------------------
+
+- ### Clipper
+
+```clipper
+
+? "Hello, World!"
+
+```
+
+------------------------------------------------------------------------------
+
+  - ### CLOJURESCRIPT
+
+  ```CLOJURE
+
+  (println "Hello world!")
+
+  ```
+
+-----------------------------------------------------------------------------
+
+- ### Cobol
+
+``` cobol
+program-id. hello.
+    procedure division.
+        display "Hello, World!".
+        stop run.
+```
+
+--------------------------------------------------------------------------
+
+- ### Cobra
+
+```cobra
+
+class Hello
+
+    def main
+        print 'Hello, World!'
+```
+
+-------------------------------------------------------------------------
+
+- ### CoffeeScript
+
+``` coffeescript
+console.log ‘Hello, World!’
+```
+
+--------------------------------------------------------------------------
+
+- ### Ceylon
+
+```ceylon
+
+
+void hello() {
+    print("Hello, World!");
+}
+
+```
+
+--------------------------------------------------------------------------
+
+- ### dart
+
+```dart
+
+void main() {
+  print('Hello, World!');
+}
+```
+
+--------------------------------------------------------------------------
+
+- ### Delphi
+
+```delphi
+
+program HelloWorld;
+begin
+  Writeln('Hello, World!');
+end.
+
+```
+
+--------------------------------------------------------------------------
+
+- ### Django
+
+```py
+
+import django.http from HttpResponse
+
+def print(request):
+      return HttpResponse("Hello, World!")
+
+```
+
+---------------------------------------------------------------------------
+
+- ### Eiffel 
+
+```eiffel
+
+class
+    HELLO_WORLD
+create
+    make
+feature
+    make
+        do
+            print ("Hello world!%N")
+        end
+end
+
+```
+
+-------------------------------------------------------------------------
+
+- ### Fortran
+
+```fortran
+
+PROGRAM Hello
+WRITE (*,*) 'Hello, World!'
+STOP
+END
+
+```
+
+-------------------------------------------------------------------------
+
+
+- ### F# 
+
+```fsharp
+
+printfn "Hello, World!"
+
+```
+------------------------------------------------------------------------------
+- ### go
+
+```go
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+--------------------------------------------------------------------------
+
+- ### Haskell
+
+``` haskell
+main = putStrLn "Hello, World!"
+```
+
+--------------------------------------------------------------------------
+
+- ### HTML
+
+```html
+
+<h1>Hello, World!<h1>
+ ```
+ 
+ --------------------------------------------------------------------------
+
+
+- ### Javascript
+
+```js
+console.log("Hello, World!");
+```
+
+ 
+ -------------------------------------------------------------------------
+ 
+ - ### Java
+
+```java
+class helloWorld {
+public static void main() {
+System.out.println('Hello, World!')
+ }
+}
+```
+
+----------------------------------------------------------------------------
+
+- ### Julia
+
+``` Julia
+println(“Hello, World!”)
+```
+
+----------------------------------------------------------------------------
+
+- ### jQuery
+
+```js
+
+$("body").append("Hello, World!");
+
+```
+
+----------------------------------------------------------------------------
+
+- ### kotlin
+
+```kotlin
+fun main() {
+    println("Hello, World!")
+}
+```
+
+----------------------------------------------------------------------------
+
+- ### Lisp
+
+```lisp
+
+(print "Hello, World")
+
+```
+
+----------------------------------------------------------------------------
+
+- ### Logo
+
+```logo
+
+print [Hello, World!]
+
+```
+
+---------------------------------------------------------------------------
+
+- ### Lua
+
+```lua
+
+print("Hello, World!")
+ ```
+ 
+ ----------------------------------------------------------------------------
+ 
+ - ### Matlab
+
+``` matlab
+disp('Hello, World!')
+```
+
+----------------------------------------------------------------------------
+
+- ### NodeJs
+
+```js
+console.log('Hello, World!');
+```
+
+-----------------------------------------------------------------------------
+
+- ### Objective-C
+
+```objectivec
+
+#import <Foundation/Foundation.h>
+
+int main(int argc, const char * argv[]) {
+    @autoreleasepool {
+        NSLog(@"Hello, World!");
+    }
+    return 0;
+}
+
+```
+
+-----------------------------------------------------------------------------
+
+- ### Pascal
+
+``` pascal
+Program HelloWorld(output);
+begin
+  writeln('Hello, World!');
+end.
+```
+
+----------------------------------------------------------------------------
+
+- ### Perl
+
+``` Perl
+print "Hello, World!";
+```
+
+----------------------------------------------------------------------------
+ 
+ - ### PHP
+
+```php
+<?php
+  echo 'Hello, World!';
+?>
+```
+
+----------------------------------------------------------------------------
+
+- ### PL/SQL
+
+```SQL
+
+BEGIN
+dbms_output.put_line (‘Hello, World!');
+END;
+
+```
+
+-----------------------------------------------------------------------------
+
+- ### PowerShell
+
+```powershell
+
+Write-Host 'Hello, World!'
+
+```
+
+-----------------------------------------------------------------------------
+
+- ### Processing
+
+```processing
+void setup(){
+  println("Hello, world!");
+}
+```
+
+------------------------------------------------------------------------------
+
+- ### Prolog
+
+``` prolog
+main:-
+        process,
+        halt.
+process:-
+        write('Hello, World!').
+:- main.
+```
+
+----------------------------------------------------------------------------
+
+- ### python
+
+ ```python
+
+ print('Hello, World!')
+ ```
+ 
+ ----------------------------------------------------------------------------
+
+
+- ### R
+
+```R
+
+print("Hello, World!")
+ ```
+ 
+ -----------------------------------------------------------------------------
+
+- ### Ruby
+
+```ruby
+puts "Hello, World!"
+```
+
+------------------------------------------------------------------------------
+
+- ### Rust
+
+``` Rust
+fn main() {
+    println!("Hello, World!");
+}
+```
+
+------------------------------------------------------------------------------
+
+- ### Scala
+
+``` scala
+object Solution
+{
+  def main(args: Array[String])
+    {
+      println("Hello, World!")
+    }
+}
+```
+
+------------------------------------------------------------------------------
+
+- ### Smalltalk
+
+```smallTalk
+
+Transcript show: 'Hello, world!'; cr.
+
+```
+
+-------------------------------------------------------------------------------
+
+- ### Swift
+
+``` Swift
+import swift
+print("Hello, World!")
+```
+
+-------------------------------------------------------------------------------
+
+- ### System Verilog
+
+```systemverilog
+
+module HelloWorld;
+    initial begin
+        $display("Hello, World!");
+    end
+endmodule
+
+```
+
+------------------------------------------------------------------------------
+
+- ### TypeScript 
+
+```ts 
+
+console.log("Hello, World!")
+
+```
+
+------------------------------------------------------------------------------
+
+- ### Visual Basic 
+
+```vb
+
+Public Sub Main()
+    Debug.Print "Hello, World!"
+End Sub
+
+```
+
+------------------------------------------------------------------------------
+
+- ### VB.net
+
+```vb
+
+Imports System
+Module Module1
+   Sub Main()
+      Console.WriteLine("Hello, World!")
+      Console.ReadKey()
+   End Sub
+End Module
+```
+
+------------------------------------------------------------------------------
+
+
+- ### XSLT
+
+```XSLT
+
+Hello, world!
+
+```
+
+------------------------------------------------------------------------------
+
+
+- ### Elixir
+
+```Elixir
+
+IO.puts("Hello, World!")
+
+```
+
+
+
+
