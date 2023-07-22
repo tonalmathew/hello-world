@@ -1,0 +1,93 @@
+---
+import Layout from '../layouts/Layout.astro';
+const language = await Astro.glob("./lang/*.md")
+const data = await Promise.all(language.map(async lang => {
+	const {url, frontmatter: {title}, rawContent} = lang
+	// let content = await rawContent()
+	let {props: {children}}: any = await lang.default({}, {}, {});
+	return {
+		title,
+		url,
+		children
+	}
+}));
+let contents = await Promise.all(language.map(async lang => {
+  let content = await lang.default({}, {}, {});
+  return content;
+}));
+---
+
+<Layout title="hello-world">
+	<main>
+		<div class="head">
+			<h1>
+				<span class="text-gradient">./hello-world</span>
+			</h1>
+			<a href="https://github.com/tonalmathew/hello-world" target="_blank" class="button">
+				<img class="github" src="/github.png" alt="github"> 
+				<h4>view on github</h4>
+			</a>
+		</div>
+		<hr>
+		{
+			data.map(({title, url, children}) => (
+						<div class="container">
+							<h2><a class="lang-name" href={url}>{title}</a></h2>
+						<div>
+							{children}
+						</div>
+					</div>
+				))
+		}
+	</main>
+</Layout>
+
+<style>
+	main {
+		margin: auto;
+		padding: 1.5rem;
+		max-width: 100ch;
+	}
+	h1 {
+		font-size: 3rem;
+		font-weight: 800;
+		margin: 0;
+	}
+	a {
+		text-decoration: none;
+	}
+	.lang-name{
+		color: bisque;
+	}
+	.container{
+		margin-top: 3rem;
+	}
+	.text-gradient {
+		background-image: var(--accent-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-size: 400%;
+		background-position: 0%;
+	}
+	.head{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.button{
+		display: flex;
+		justify-content: space-evenly;
+		align-items: center;
+		border: none;
+		background-color: bisque;
+		cursor: pointer;
+		border-radius: 25px;
+		width: 10rem;
+		height: 2.5rem;
+		color: black;
+	}
+	.github{
+		width: 20%;
+	}
+
+</style>
