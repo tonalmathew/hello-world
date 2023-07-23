@@ -1,8 +1,8 @@
 ---
-title: "F"
+title: "F#"
 ---
 
-```f
+```fsharp
 
 printfn "Hello, World!"
 
