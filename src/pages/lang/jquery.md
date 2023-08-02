@@ -2,7 +2,7 @@
 title: "jQuery"
 ---
 
-```jquery
+```js
 
   $("body").append("Hello, World!");
 
