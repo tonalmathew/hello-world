@@ -1,8 +1,8 @@
 ---
-title: "Abap"
+title: "Smaltalk"
 ---
 
-```abap
+```smaltalk
 
   Transcript show: 'Hello, world!'; cr.
 
