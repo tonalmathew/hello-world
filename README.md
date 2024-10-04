@@ -665,6 +665,16 @@ IO.puts("Hello, World!")
 
 ```
 
+---
 
+- ### V
+
+```v
+fn main() {
+    println('Hello, World!')
+}
+```
+
+---
 
 
