@@ -664,6 +664,13 @@ Hello, world!
 IO.puts("Hello, World!")
 
 ```
+---
+
+- ### Nim
+
+```nim
+echo "Hello, World!"
+```
 
 ---
 
