@@ -674,6 +674,25 @@ fn main() {
     println('Hello, World!')
 }
 ```
+---
+
+- ### Nim
+
+```nim
+echo "Hello, World!"
+```
+
+---
+
+- ### Elang (Erlang)
+
+```erlang
+-module(hello).
+-export([world/0]).
+
+world() ->
+    io:format("Hello, World!~n").
+```
 
 ---
 
