@@ -667,6 +667,13 @@ IO.puts("Hello, World!")
 
 ---
 
+- ### Crystal
+
+```crystal
+puts "Hello, World!"
+```
+---
+
 - ### V
 
 ```v
