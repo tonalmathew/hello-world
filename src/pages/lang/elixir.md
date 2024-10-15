@@ -4,6 +4,6 @@ title: "Elixir"
 
 ```elixir
 
-IO.puts("Hello, World!")
+  IO.puts("Hello, World!")
 
 ```
