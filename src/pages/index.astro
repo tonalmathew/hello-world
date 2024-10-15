@@ -29,16 +29,14 @@ let contents = await Promise.all(language.map(async lang => {
 			</a>
 		</div>
 		<hr>
-		{
-			data.map(({title, url, children}) => (
-						<div class="container">
-							<h2><a class="lang-name" href={url}>{title}</a></h2>
-						<div>
-							{children}
-						</div>
-					</div>
-				))
-		}
+		{data.map(({title, url, children}) => (
+			<div class="container">
+				<h2>
+					<a class="lang-name" href={url}>{title}</a>
+				</h2>
+				<div>{children}</div>
+			</div>
+		))}
 	</main>
 </Layout>
 
